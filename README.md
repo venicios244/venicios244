@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**venicios244/venicios244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é venicios cordeiro 
 
-Here are some ideas to get you started:
+- Estou estudando no alura 
+- Estou me desenvilvendo na linuagem javascript
+- Utilizo esse espaso para minha organização e conpartilhamento dos meus progetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### voce entras em contato comigo 📫
+
+ venicios.cordeiro@escola.pr.gov.br
+ 
+ @venicios.cordeiro
+
+![]()
+![image](https://github.com/user-attachments/assets/b8904bbc-5c01-4ca2-84f9-b1e6b262e47e)
